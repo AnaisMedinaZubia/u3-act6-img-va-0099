@@ -1,0 +1,11 @@
+Categoría,Archivo original,Lectura,Ancho original,Alto original,Ancho preparado,Alto preparado,Valor mínimo norm.,Valor máximo norm.,Evaluación
+piano,piano1.jpg,OK,735,735,224,224,0.02,0.992,APROBADA
+piano,piano2.jpg,OK,410,487,224,224,0.0,1.0,APROBADA
+piano,piano3.jpg,OK,554,554,224,224,0.0,1.0,APROBADA
+piano,piano4.jpg,OK,447,447,224,224,0.0,1.0,APROBADA
+piano,piano5.jpg,OK,447,447,224,224,0.0,1.0,APROBADA
+teclado,teclado.jpg,OK,1600,1600,224,224,0.024,1.0,APROBADA
+teclado,teclado2.jpg,OK,1680,970,224,224,0.0,1.0,APROBADA
+teclado,teclado3.jpg,OK,447,447,224,224,0.02,1.0,APROBADA
+teclado,teclado4.jpg,OK,988,1000,224,224,0.0,1.0,APROBADA
+teclado,teclado5.jpg,OK,1024,1024,224,224,0.086,1.0,APROBADA
